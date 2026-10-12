@@ -280,4 +280,17 @@ FROM orders;
 - By writing to staging directories and executing atomic partition swaps, or using ACID storage formats (Delta Lake / Apache Iceberg) with partition-overwrite semantics.
 
 ---
+
+---
+
+## 🎯 48-Hour Technical Interview Preparation Strategy
+
+| Time Window | Focus Area | High-Yield Activity |
+|:---|:---|:---|
+| **Hour 01 – 12** | **Spark Internals** | Review Catalyst optimizer stages, Driver/Executor memory pools, and Narrow vs. Wide shuffles. |
+| **Hour 13 – 24** | **Analytical SQL** | Solve 5 window problems: running totals, second highest salary, and `LAG`/`LEAD` interval deltas. |
+| **Hour 25 – 36** | **Lakehouse Architecture** | Trace the Medallion flow (Bronze, Silver, Gold), quarantine DLQ routing, and incremental watermarking. |
+| **Hour 37 – 48** | **Resume Project Pitches** | Rehearse your 30-second elevator pitches from [`RESUME_PROJECTS_PORTFOLIO.md`](./RESUME_PROJECTS_PORTFOLIO.md). |
+
+
 ⭐ **Good luck with your interviews! Review this cheat sheet 30 minutes before your technical round.**
