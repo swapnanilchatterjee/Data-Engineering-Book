@@ -1,0 +1,11 @@
+order_id,customer_id,customer_name,city,product,category,quantity,price,order_date
+2001,101.0,Rahul,Kolkata,Laptop,Electronics,1.0,55000.0,2026-09-20
+2002,102.0,Amit,Delhi,Mouse,Accessories,2.0,800.0,2026-09-20
+2003,103.0,Sneha,Mumbai,Keyboard,Accessories,-1.0,1500.0,2026-09-21
+2004,,Priya,Pune,Monitor,Electronics,1.0,12000.0,2026-09-21
+2005,105.0,Arjun,Bangalore,Laptop,Electronics,,55000.0,2026-09-22
+2006,106.0,Riya,Chennai,Mouse,Accessories,3.0,800.0,2026-09-23
+2006,106.0,Riya,Chennai,Mouse,Accessories,3.0,800.0,2026-09-23
+2007,107.0,Karan,,Keyboard,Accessories,0.0,-1500.0,2026-09-24
+2008,108.0,Neha,Hyderabad,Laptop,Electronics,2.0,55000.0,INVALID_DATE
+2009,109.0,Sourav,Kolkata,Monitor,Electronics,1.0,,2026-09-25
