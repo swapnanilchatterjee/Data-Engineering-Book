@@ -66,6 +66,15 @@
 
 ---
 
+### 📋 Recommended 5-Step Learning Sequence
+1. 🏁 **Track 1 (SQL Foundations)**: Practice window functions and CTEs in [`Practice SQL`](./Practice%20SQL/).
+2. 🐍 **Track 2 (Pandas Wrangling)**: Master feature cleaning and indexing in [`Pandas`](./Pandas/).
+3. ⚡ **Track 3 (Spark Core)**: Understand Driver/Executor architecture in [`PySpark Tutorial`](./PySpark%20Tutorial/).
+4. 🚀 **Track 4 (Production Lakehouse)**: Complete all 10 days in [`PySpark Ingestion & Production Engineering`](./PySpark%20Ingestion%20%26%20Production%20Engineering/).
+5. 💼 **Interview Readiness**: Review [`BEFORE_INTERVIEW_CHEATSHEET.md`](./BEFORE_INTERVIEW_CHEATSHEET.md) and rehearse pitches in [`RESUME_PROJECTS_PORTFOLIO.md`](./RESUME_PROJECTS_PORTFOLIO.md).
+
+---
+
 ## 📁 Complete Repository Folder Structure
 
 Below is the verified, complete directory tree of the repository:
