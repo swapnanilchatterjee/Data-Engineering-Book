@@ -9,6 +9,8 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Cloud%20Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=white)](https://neon.tech)
 [![Power BI](https://img.shields.io/badge/BI-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#)
+[![Cheat Sheet](https://img.shields.io/badge/Cheat%20Sheet-Before--Interview%20Guide-E0234E?style=for-the-badge)](./BEFORE_INTERVIEW_CHEATSHEET.md)
+[![Resume Bullets](https://img.shields.io/badge/Portfolio-Resume%20Project%20Bullets-6C5CE7?style=for-the-badge)](./RESUME_PROJECTS_PORTFOLIO.md)
 
 <p align="center">
   <b>A complete production compendium spanning Relational SQL Engineering, Python Feature Pipelines, Apache Spark Foundations, a 10-Day Production Lakehouse Masterclass, and Real-World Domain Platforms.</b>
@@ -32,8 +34,10 @@
    - [Project 7: Sales Dashboard (Executive BI & Dimensional Warehousing)](#7-sales-dashboard-executive-bi--dimensional-warehousing)
    - [Project 8: NetFlix Analysis (Entertainment Catalog & Popularity EDA)](#8-netflix-analysis-entertainment-catalog--popularity-eda)
    - [Project 9: Health Expenses (Clinical Analytics & Actuarial Modeling)](#9-health-expenses-clinical-analytics--actuarial-modeling)
-5. [Local Environment Setup & Installation](#-local-environment-setup--installation)
-6. [Contributing & Community](#-contributing--community)
+5. [⚡ Before-Interview Rapid Revision Cheat Sheet](./BEFORE_INTERVIEW_CHEATSHEET.md)
+6. [💼 Resume Project Portfolio (Bullets, Impact & URLs)](./RESUME_PROJECTS_PORTFOLIO.md)
+7. [Local Environment Setup & Installation](#-local-environment-setup--installation)
+8. [Contributing & Community](#-contributing--community)
 
 ---
 
@@ -139,6 +143,8 @@ Data-Engineering-Book/
 │   ├── Health_Expenses.ipynb                                     # Exploratory demographics & cost factors
 │   └── README.md                                                 # Clinical analysis documentation
 │
+├── 📄 BEFORE_INTERVIEW_CHEATSHEET.md                             # High-yield 30-min pre-interview revision guide
+├── 📄 RESUME_PROJECTS_PORTFOLIO.md                                # Copy-paste resume bullets & interview elevator pitches
 └── README.md                                                    # Main repository guide (This File)
 ```
 
